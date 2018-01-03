@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide sample examples for git training
 Sample website with plenty of files for demos
 
 ##How to Contribute
+
+### Copyright
+
+2018 Git Training
