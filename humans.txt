@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brandon S irishbs@hotmail.com @swarm_perftest
 
 # THANKS
 
