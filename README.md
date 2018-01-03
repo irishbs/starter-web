@@ -16,6 +16,8 @@ Sample website with plenty of files for demos
 
 ##How to Contribute
 
+Fork the repository then issue pull request.
+
 ### Copyright
 
 2018 Git Training
